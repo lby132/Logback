@@ -1,0 +1,7 @@
+[REQUEST1] [INFO ] 2024-10-22 15:24:49 [main] [o.s.b.w.s.c.ServletWebServerApplicationContext:296] = Root WebApplicationContext: initialization completed in 329 ms
+[REQUEST1] [INFO ] 2024-10-22 15:24:49 [main] [o.s.b.w.embedded.tomcat.TomcatWebServer:243] = Tomcat started on port 8080 (http) with context path '/'
+[REQUEST1] [INFO ] 2024-10-22 15:24:49 [main] [dev.be.logback.LogbackApplication:56] = Started LogbackApplication in 0.701 seconds (process running for 0.904)
+[REQUEST1] [INFO ] 2024-10-22 15:24:52 [http-nio-8080-exec-1] [o.a.c.c.C.[Tomcat].[localhost].[/]:173] = Initializing Spring DispatcherServlet 'dispatcherServlet'
+[REQUEST1] [INFO ] 2024-10-22 15:24:52 [http-nio-8080-exec-1] [o.s.web.servlet.DispatcherServlet:532] = Initializing Servlet 'dispatcherServlet'
+[REQUEST1] [INFO ] 2024-10-22 15:24:52 [http-nio-8080-exec-1] [o.s.web.servlet.DispatcherServlet:554] = Completed initialization in 0 ms
+[REQUEST1] [INFO ] 2024-10-22 15:24:52 [http-nio-8080-exec-1] [d.be.logback.controller.DemoController:15] = log -> info

@@ -1,0 +1,7 @@
+#logback.classic pattern: [REQUEST1] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] = %msg%n
+[REQUEST1] [INFO ] 2024-10-22 15:24:49 [main] [dev.be.logback.LogbackApplication:50] = Starting LogbackApplication using Java 17.0.7 with PID 80011 (/Users/lby/Downloads/project/Logback/build/classes/java/main started by lby in /Users/lby/Downloads/project/Logback)
+[REQUEST1] [INFO ] 2024-10-22 15:24:49 [main] [dev.be.logback.LogbackApplication:660] = The following 1 profile is active: "prod"
+[REQUEST1] [INFO ] 2024-10-22 15:24:49 [main] [o.s.b.w.embedded.tomcat.TomcatWebServer:111] = Tomcat initialized with port 8080 (http)
+[REQUEST1] [INFO ] 2024-10-22 15:24:49 [main] [o.apache.catalina.core.StandardService:173] = Starting service [Tomcat]
+[REQUEST1] [INFO ] 2024-10-22 15:24:49 [main] [org.apache.catalina.core.StandardEngine:173] = Starting Servlet engine: [Apache Tomcat/10.1.30]
+[REQUEST1] [INFO ] 2024-10-22 15:24:49 [main] [o.a.c.c.C.[Tomcat].[localhost].[/]:173] = Initializing Spring embedded WebApplicationContext

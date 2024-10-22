@@ -1,0 +1,8 @@
+[REQUEST1] [WARN ] 2024-10-22 15:24:52 [http-nio-8080-exec-1] [d.be.logback.controller.DemoController:16] = log -> warn
+[REQUEST1] [ERROR] 2024-10-22 15:24:52 [http-nio-8080-exec-1] [d.be.logback.controller.DemoController:17] = log -> error
+[REQUEST1] [INFO ] 2024-10-22 15:25:14 [http-nio-8080-exec-2] [d.be.logback.controller.DemoController:15] = log -> info
+[REQUEST1] [WARN ] 2024-10-22 15:25:14 [http-nio-8080-exec-2] [d.be.logback.controller.DemoController:16] = log -> warn
+[REQUEST1] [ERROR] 2024-10-22 15:25:14 [http-nio-8080-exec-2] [d.be.logback.controller.DemoController:17] = log -> error
+[REQUEST1] [INFO ] 2024-10-22 15:25:15 [http-nio-8080-exec-3] [d.be.logback.controller.DemoController:15] = log -> info
+[REQUEST1] [WARN ] 2024-10-22 15:25:15 [http-nio-8080-exec-3] [d.be.logback.controller.DemoController:16] = log -> warn
+[REQUEST1] [ERROR] 2024-10-22 15:25:15 [http-nio-8080-exec-3] [d.be.logback.controller.DemoController:17] = log -> error
